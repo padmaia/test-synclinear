@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: 18
       - run: echo "Running test"
-      - run: exit 0
+      - run: exit 1
